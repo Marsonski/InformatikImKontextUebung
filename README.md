@@ -1,3 +1,5 @@
 # InformatikImKontextUebung
 Übungsaufgaben Informatik im Kontext
-Test
+
+Geschichte:
+Es war ein mal ein kleiner Informatiker,
